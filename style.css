@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://cf.bstatic.com/xdata/images/hotel/max1024x768/244857830.webp?k=10d47faed02609353c2ddc709b1ad0cabfdb351c427e04e91db1f39d7842b6e1&o=");
+
+}
+.name1{
+    color:white;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.name2 ul {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.name2 li {
+    list-style: none;
+}
+
+.name2  a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.name3{
+    color: white;
+    margin-left: auto;
+    background-color: black;
+    opacity: 0.9;
+    height: 200px;
+    width: 450px;
+    padding: 20px;
+    padding-left: 90px;
+    align-self: center;
+
+}
+.name4{
+    background-color: black;
+    top:40px;
+    left:2px;
+    opacity: 0.9;
+    height:250px;
+    width:450px;
+    color: white;
+}
+.name4 li{
+    list-style: none;
+}
